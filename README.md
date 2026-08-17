@@ -606,7 +606,7 @@ $$\boxed{x=3}$$
 
 Résoudre :
 
-$$(x-4)(2x+3)\geq0$$
+$$(2x+3)\geq0$$
 
 <details>
 <summary>👉 Voir la correction</summary>
