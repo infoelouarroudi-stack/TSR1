@@ -43,98 +43,98 @@ Faire les questions suivantes **sans cours et sans aide**.
 ### Question 1
 Simplifier :
 
-\[
+$$
 A=3(2x-5)-2(x+4)
-\]
+$$
 
 ### Question 2
 Factoriser :
 
-\[
+$$
 B=x^2-9
-\]
+$$
 
 ### Question 3
 Résoudre :
 
-\[
+$$
 2x-7=5
-\]
+$$
 
 ### Question 4
 Résoudre :
 
-\[
+$$
 x^2-5x+6=0
-\]
+$$
 
 ### Question 5
 Déterminer les valeurs interdites de :
 
-\[
+$$
 f(x)=\frac{x+2}{x-3}
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction du diagnostic</summary>
 
 **Question 1**
 
-\[
+$$
 A=6x-15-2x-8=4x-23
-\]
+$$
 
 **Question 2**
 
-\[
+$$
 x^2-9=x^2-3^2=(x-3)(x+3)
-\]
+$$
 
 **Question 3**
 
-\[
+$$
 2x-7=5
-\]
+$$
 
-\[
+$$
 2x=12
-\]
+$$
 
-\[
+$$
 \boxed{x=6}
-\]
+$$
 
 **Question 4**
 
-\[
+$$
 x^2-5x+6=(x-2)(x-3)
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{x=2\quad\text{ou}\quad x=3}
-\]
+$$
 
 **Question 5**
 
 Le dénominateur ne doit pas être nul :
 
-\[
+$$
 x-3\neq0
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{x\neq3}
-\]
+$$
 
 Le domaine est :
 
-\[
+$$
 \boxed{D_f=\mathbb R\setminus\{3\}}
-\]
+$$
 
 </details>
 
@@ -153,21 +153,21 @@ Toujours respecter l'ordre :
 
 #### Règles de signes
 
-\[
+$$
 (+)\times(+)=+
-\]
+$$
 
-\[
+$$
 (-)\times(-)=+
-\]
+$$
 
-\[
+$$
 (+)\times(-)=-
-\]
+$$
 
-\[
+$$
 (-)\times(+) = -
-\]
+$$
 
 Même principe pour une division.
 
@@ -177,77 +177,77 @@ Même principe pour une division.
 
 Pour additionner deux fractions, il faut un dénominateur commun :
 
-\[
+$$
 \frac{a}{b}+\frac{c}{d}
 =
 \frac{ad+bc}{bd}
-\]
+$$
 
-avec \(b\neq0\) et \(d\neq0\).
+avec $b\neq0$ et $d\neq0$.
 
 Pour multiplier :
 
-\[
+$$
 \frac{a}{b}\times\frac{c}{d}
 =
 \frac{ac}{bd}
-\]
+$$
 
 Pour diviser par une fraction, on multiplie par son inverse :
 
-\[
+$$
 \frac{a}{b}\div\frac{c}{d}
 =
 \frac{a}{b}\times\frac{d}{c}
-\]
+$$
 
-avec \(c\neq0\).
+avec $c\neq0$.
 
 #### Attention
 
 On ne simplifie pas une addition terme à terme :
 
-\[
+$$
 \frac{x+2}{x}
 \neq
 1+2
-\]
+$$
 
 En revanche :
 
-\[
+$$
 \frac{x(x+2)}{x}=x+2
-\]
+$$
 
-à condition que \(x\neq0\).
+à condition que $x\neq0$.
 
 ---
 
 ### 3.3 Puissances
 
-Pour \(a\neq0\) :
+Pour $a\neq0$ :
 
-\[
+$$
 a^m\times a^n=a^{m+n}
-\]
+$$
 
-\[
+$$
 \frac{a^m}{a^n}=a^{m-n}
-\]
+$$
 
-\[
+$$
 (a^m)^n=a^{mn}
-\]
+$$
 
-\[
+$$
 a^{-n}=\frac1{a^n}
-\]
+$$
 
 Exemple :
 
-\[
+$$
 x^3\times x^4=x^7
-\]
+$$
 
 ---
 
@@ -255,28 +255,28 @@ x^3\times x^4=x^7
 
 La distributivité :
 
-\[
+$$
 a(b+c)=ab+ac
-\]
+$$
 
 Exemple :
 
-\[
+$$
 3(x+5)=3x+15
-\]
+$$
 
 Double distributivité :
 
-\[
+$$
 (a+b)(c+d)=ac+ad+bc+bd
-\]
+$$
 
 Exemple :
 
-\[
+$$
 (x+2)(x+5)
 =x^2+7x+10
-\]
+$$
 
 ---
 
@@ -284,27 +284,27 @@ Exemple :
 
 #### Première identité
 
-\[
+$$
 (a+b)^2=a^2+2ab+b^2
-\]
+$$
 
 #### Deuxième identité
 
-\[
+$$
 (a-b)^2=a^2-2ab+b^2
-\]
+$$
 
 #### Troisième identité
 
-\[
+$$
 (a-b)(a+b)=a^2-b^2
-\]
+$$
 
 Exemple :
 
-\[
+$$
 x^2-16=(x-4)(x+4)
-\]
+$$
 
 ---
 
@@ -314,21 +314,21 @@ Factoriser signifie transformer une somme ou une différence en produit.
 
 #### Facteur commun
 
-\[
+$$
 ax+ay=a(x+y)
-\]
+$$
 
 Exemple :
 
-\[
+$$
 3x^2+6x=3x(x+2)
-\]
+$$
 
 #### Identité remarquable
 
-\[
+$$
 x^2-25=(x-5)(x+5)
-\]
+$$
 
 #### Objectif
 
@@ -342,17 +342,17 @@ Avant de résoudre une équation, toujours se demander :
 
 Exemple :
 
-\[
+$$
 3x-7=11
-\]
+$$
 
-\[
+$$
 3x=18
-\]
+$$
 
-\[
+$$
 \boxed{x=6}
-\]
+$$
 
 ---
 
@@ -360,37 +360,37 @@ Exemple :
 
 Pour :
 
-\[
+$$
 ax^2+bx+c=0
-\]
+$$
 
 on peut utiliser le discriminant :
 
-\[
+$$
 \Delta=b^2-4ac
-\]
+$$
 
-#### Si \(\Delta>0\)
+#### Si $\Delta>0$
 
 Deux solutions :
 
-\[
+$$
 x_1=\frac{-b-\sqrt\Delta}{2a}
-\]
+$$
 
-\[
+$$
 x_2=\frac{-b+\sqrt\Delta}{2a}
-\]
+$$
 
-#### Si \(\Delta=0\)
+#### Si $\Delta=0$
 
 Une solution double :
 
-\[
+$$
 x_0=-\frac{b}{2a}
-\]
+$$
 
-#### Si \(\Delta<0\)
+#### Si $\Delta<0$
 
 Aucune solution réelle.
 
@@ -400,27 +400,27 @@ Aucune solution réelle.
 
 Si :
 
-\[
+$$
 A\times B=0
-\]
+$$
 
 alors :
 
-\[
+$$
 A=0\quad\text{ou}\quad B=0
-\]
+$$
 
 Exemple :
 
-\[
+$$
 (x-2)(x+5)=0
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{x=2\quad\text{ou}\quad x=-5}
-\]
+$$
 
 ---
 
@@ -430,79 +430,79 @@ Pour une inéquation, **changer le sens de l'inégalité lorsqu'on multiplie ou 
 
 Exemple :
 
-\[
+$$
 -2x>6
-\]
+$$
 
-En divisant par \(-2\) :
+En divisant par $-2$ :
 
-\[
+$$
 \boxed{x<-3}
-\]
+$$
 
 #### Pour un produit
 
 Exemple :
 
-\[
+$$
 (x-2)(x+3)>0
-\]
+$$
 
 On étudie le signe des deux facteurs.
 
 Racines :
 
-\[
+$$
 x=2,\qquad x=-3
-\]
+$$
 
 Le produit est positif sur :
 
-\[
+$$
 \boxed{]-\infty,-3[\cup]2,+\infty[}
-\]
+$$
 
 ---
 
 ### 3.11 Domaine de définition : premier réflexe avant une fonction
 
-Avant de travailler avec une fonction, il faut déterminer pour quelles valeurs de \(x\) l'expression existe.
+Avant de travailler avec une fonction, il faut déterminer pour quelles valeurs de $x$ l'expression existe.
 
 #### Cas d'un quotient
 
-\[
+$$
 f(x)=\frac{2x+1}{x-4}
-\]
+$$
 
 Le dénominateur ne peut pas être nul :
 
-\[
+$$
 x-4\neq0
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{D_f=\mathbb R\setminus\{4\}}
-\]
+$$
 
 #### Cas d'une racine carrée
 
-\[
+$$
 f(x)=\sqrt{x-3}
-\]
+$$
 
 Il faut :
 
-\[
+$$
 x-3\geq0
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{D_f=[3,+\infty[}
-\]
+$$
 
 > **Réflexe à retenir pour les prochaines séances :**
 >
@@ -516,20 +516,20 @@ Donc :
 
 Réduire :
 
-\[
+$$
 A=5x+3-2x+7
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-\[
+$$
 A=(5x-2x)+(3+7)
-\]
+$$
 
-\[
+$$
 \boxed{A=3x+10}
-\]
+$$
 
 </details>
 
@@ -539,20 +539,20 @@ A=(5x-2x)+(3+7)
 
 Développer :
 
-\[
+$$
 B=4(x-3)
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-\[
+$$
 B=4x-12
-\]
+$$
 
-\[
+$$
 \boxed{B=4x-12}
-\]
+$$
 
 </details>
 
@@ -562,20 +562,20 @@ B=4x-12
 
 Développer :
 
-\[
+$$
 C=(x+5)^2
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-\[
+$$
 (x+5)^2=x^2+10x+25
-\]
+$$
 
-\[
+$$
 \boxed{C=x^2+10x+25}
-\]
+$$
 
 </details>
 
@@ -585,20 +585,20 @@ C=(x+5)^2
 
 Résoudre :
 
-\[
+$$
 4x-9=15
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-\[
+$$
 4x=24
-\]
+$$
 
-\[
+$$
 \boxed{x=6}
-\]
+$$
 
 </details>
 
@@ -608,26 +608,26 @@ Résoudre :
 
 Déterminer les valeurs interdites de :
 
-\[
+$$
 f(x)=\frac{3x-1}{2x+6}
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-\[
+$$
 2x+6\neq0
-\]
+$$
 
-\[
+$$
 x\neq-3
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{D_f=\mathbb R\setminus\{-3\}}
-\]
+$$
 
 </details>
 
@@ -639,20 +639,20 @@ Donc :
 
 Développer et réduire :
 
-\[
+$$
 A=(2x-3)(x+4)
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-\[
+$$
 A=2x^2+8x-3x-12
-\]
+$$
 
-\[
+$$
 \boxed{A=2x^2+5x-12}
-\]
+$$
 
 </details>
 
@@ -662,18 +662,18 @@ A=2x^2+8x-3x-12
 
 Factoriser :
 
-\[
+$$
 B=3x^2-12x
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-Le facteur commun est \(3x\).
+Le facteur commun est $3x$.
 
-\[
+$$
 \boxed{B=3x(x-4)}
-\]
+$$
 
 </details>
 
@@ -683,30 +683,30 @@ Le facteur commun est \(3x\).
 
 Résoudre :
 
-\[
+$$
 x^2-7x+12=0
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-On cherche deux nombres dont le produit vaut \(12\) et la somme vaut \(-7\).
+On cherche deux nombres dont le produit vaut $12$ et la somme vaut $-7$.
 
-\[
+$$
 x^2-7x+12=(x-3)(x-4)
-\]
+$$
 
 Donc :
 
-\[
+$$
 (x-3)(x-4)=0
-\]
+$$
 
 Ainsi :
 
-\[
+$$
 \boxed{x=3\quad\text{ou}\quad x=4}
-\]
+$$
 
 </details>
 
@@ -716,26 +716,26 @@ Ainsi :
 
 Résoudre :
 
-\[
+$$
 3x-5\leq10
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-\[
+$$
 3x\leq15
-\]
+$$
 
-\[
+$$
 \boxed{x\leq5}
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{]-\infty,5]}
-\]
+$$
 
 </details>
 
@@ -745,34 +745,34 @@ Donc :
 
 Simplifier :
 
-\[
+$$
 A=\frac{x^2-9}{x-3}
-\]
+$$
 
-en précisant la condition sur \(x\).
+en précisant la condition sur $x$.
 
 <details>
 <summary>👉 Voir la correction</summary>
 
 On factorise :
 
-\[
+$$
 x^2-9=(x-3)(x+3)
-\]
+$$
 
 Donc :
 
-\[
+$$
 A=\frac{(x-3)(x+3)}{x-3}
-\]
+$$
 
-Pour \(x\neq3\) :
+Pour $x\neq3$ :
 
-\[
+$$
 \boxed{A=x+3}
-\]
+$$
 
-Attention : la condition \(x\neq3\) reste valable.
+Attention : la condition $x\neq3$ reste valable.
 
 </details>
 
@@ -784,30 +784,30 @@ Attention : la condition \(x\neq3\) reste valable.
 
 Résoudre :
 
-\[
+$$
 \frac{x+1}{2}-\frac{x-3}{3}=2
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-On multiplie par \(6\) :
+On multiplie par $6$ :
 
-\[
+$$
 3(x+1)-2(x-3)=12
-\]
+$$
 
-\[
+$$
 3x+3-2x+6=12
-\]
+$$
 
-\[
+$$
 x+9=12
-\]
+$$
 
-\[
+$$
 \boxed{x=3}
-\]
+$$
 
 </details>
 
@@ -817,32 +817,32 @@ x+9=12
 
 Résoudre :
 
-\[
+$$
 (x-4)(2x+3)\geq0
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
 Les valeurs qui annulent les facteurs sont :
 
-\[
+$$
 x=4
-\]
+$$
 
 et
 
-\[
+$$
 x=-\frac32
-\]
+$$
 
 Le produit est positif ou nul à l'extérieur de l'intervalle formé par les deux racines.
 
 Donc :
 
-\[
+$$
 \boxed{x\in]-\infty,-\frac32]\cup[4,+\infty[}
-\]
+$$
 
 </details>
 
@@ -852,42 +852,42 @@ Donc :
 
 Déterminer le domaine de définition de :
 
-\[
+$$
 f(x)=\frac{\sqrt{x+2}}{x-1}
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
 Pour la racine :
 
-\[
+$$
 x+2\geq0
-\]
+$$
 
 donc :
 
-\[
+$$
 x\geq-2
-\]
+$$
 
 Pour le dénominateur :
 
-\[
+$$
 x-1\neq0
-\]
+$$
 
 donc :
 
-\[
+$$
 x\neq1
-\]
+$$
 
 Ainsi :
 
-\[
+$$
 \boxed{D_f=[-2,1[\cup]1,+\infty[}
-\]
+$$
 
 </details>
 
@@ -897,30 +897,30 @@ Ainsi :
 
 Résoudre :
 
-\[
+$$
 x^3-4x=0
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
-On met \(x\) en facteur :
+On met $x$ en facteur :
 
-\[
+$$
 x(x^2-4)=0
-\]
+$$
 
 Puis :
 
-\[
+$$
 x(x-2)(x+2)=0
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{x=-2,\quad x=0,\quad x=2}
-\]
+$$
 
 </details>
 
@@ -930,38 +930,38 @@ Donc :
 
 Résoudre :
 
-\[
+$$
 \frac{x+2}{x-1}=3
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
 Condition :
 
-\[
+$$
 x\neq1
-\]
+$$
 
-On multiplie par \(x-1\) :
+On multiplie par $x-1$ :
 
-\[
+$$
 x+2=3(x-1)
-\]
+$$
 
-\[
+$$
 x+2=3x-3
-\]
+$$
 
-\[
+$$
 5=2x
-\]
+$$
 
-\[
+$$
 \boxed{x=\frac52}
-\]
+$$
 
-Cette valeur respecte \(x\neq1\), donc elle est solution.
+Cette valeur respecte $x\neq1$, donc elle est solution.
 
 </details>
 
@@ -971,11 +971,11 @@ Cette valeur respecte \(x\neq1\), donc elle est solution.
 
 ### Exercice 16 — Paramètre
 
-Pour quelles valeurs de \(m\) l'équation
+Pour quelles valeurs de $m$ l'équation
 
-\[
+$$
 x^2-2x+m=0
-\]
+$$
 
 admet-elle deux solutions réelles distinctes ?
 
@@ -984,35 +984,35 @@ admet-elle deux solutions réelles distinctes ?
 
 Le discriminant vaut :
 
-\[
+$$
 \Delta=(-2)^2-4m
-\]
+$$
 
-\[
+$$
 \Delta=4-4m
-\]
+$$
 
 Pour avoir deux solutions réelles distinctes :
 
-\[
+$$
 \Delta>0
-\]
+$$
 
 Donc :
 
-\[
+$$
 4-4m>0
-\]
+$$
 
-\[
+$$
 m<1
-\]
+$$
 
 Ainsi :
 
-\[
+$$
 \boxed{m<1}
-\]
+$$
 
 </details>
 
@@ -1022,38 +1022,38 @@ Ainsi :
 
 Résoudre :
 
-\[
+$$
 \frac{x-2}{x+1}>0
-\]
+$$
 
 <details>
 <summary>👉 Voir la correction</summary>
 
 Valeurs importantes :
 
-\[
+$$
 x=2
-\]
+$$
 
 annule le numérateur, et :
 
-\[
+$$
 x=-1
-\]
+$$
 
 annule le dénominateur et est donc interdit.
 
 Étude des signes :
 
-- sur \(]-\infty,-1[\) : quotient positif ;
-- sur \(]-1,2[\) : quotient négatif ;
-- sur \(]2,+\infty[\) : quotient positif.
+- sur $]-\infty,-1[$ : quotient positif ;
+- sur $]-1,2[$ : quotient négatif ;
+- sur $]2,+\infty[$ : quotient positif.
 
-L'inégalité est stricte, donc \(x=2\) n'est pas inclus.
+L'inégalité est stricte, donc $x=2$ n'est pas inclus.
 
-\[
+$$
 \boxed{x\in]-\infty,-1[\cup]2,+\infty[}
-\]
+$$
 
 </details>
 
@@ -1063,9 +1063,9 @@ L'inégalité est stricte, donc \(x=2\) n'est pas inclus.
 
 On considère :
 
-\[
+$$
 A=\frac{x^2-5x+6}{x^2-4}
-\]
+$$
 
 1. Factoriser numérateur et dénominateur.
 2. Simplifier l'expression.
@@ -1076,45 +1076,45 @@ A=\frac{x^2-5x+6}{x^2-4}
 
 Numérateur :
 
-\[
+$$
 x^2-5x+6=(x-2)(x-3)
-\]
+$$
 
 Dénominateur :
 
-\[
+$$
 x^2-4=(x-2)(x+2)
-\]
+$$
 
 Donc :
 
-\[
+$$
 A=\frac{(x-2)(x-3)}{(x-2)(x+2)}
-\]
+$$
 
-On peut simplifier par \(x-2\), mais seulement avec :
+On peut simplifier par $x-2$, mais seulement avec :
 
-\[
+$$
 x\neq2
-\]
+$$
 
 Le dénominateur initial impose aussi :
 
-\[
+$$
 x\neq-2
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{A=\frac{x-3}{x+2}}
-\]
+$$
 
 avec :
 
-\[
+$$
 \boxed{x\neq2\quad\text{et}\quad x\neq-2}
-\]
+$$
 
 </details>
 
@@ -1124,9 +1124,9 @@ avec :
 
 Résoudre :
 
-\[
+$$
 (x^2-5x+6)(x-4)=0
-\]
+$$
 
 sans développer.
 
@@ -1135,21 +1135,21 @@ sans développer.
 
 On factorise directement :
 
-\[
+$$
 x^2-5x+6=(x-2)(x-3)
-\]
+$$
 
 Donc :
 
-\[
+$$
 (x-2)(x-3)(x-4)=0
-\]
+$$
 
 Un produit est nul si au moins un facteur est nul :
 
-\[
+$$
 \boxed{x=2,\quad x=3,\quad x=4}
-\]
+$$
 
 **Méthode à retenir :** ne pas développer lorsqu'une factorisation permet de résoudre directement.
 
@@ -1161,15 +1161,15 @@ Un produit est nul si au moins un facteur est nul :
 
 On considère :
 
-\[
+$$
 f(x)=\frac{x^2-4}{x-1}
-\]
+$$
 
 1. Déterminer le domaine de définition.
 2. Factoriser le numérateur.
 3. Peut-on simplifier l'expression ?
-4. Calculer \(f(0)\).
-5. Résoudre \(f(x)=0\).
+4. Calculer $f(0)$.
+5. Résoudre $f(x)=0$.
 
 <details>
 <summary>👉 Voir la correction</summary>
@@ -1178,67 +1178,67 @@ f(x)=\frac{x^2-4}{x-1}
 
 Le dénominateur ne doit pas être nul :
 
-\[
+$$
 x-1\neq0
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{D_f=\mathbb R\setminus\{1\}}
-\]
+$$
 
 #### 2. Factorisation
 
-\[
+$$
 x^2-4=(x-2)(x+2)
-\]
+$$
 
 Donc :
 
-\[
+$$
 f(x)=\frac{(x-2)(x+2)}{x-1}
-\]
+$$
 
 #### 3. Simplification
 
-Aucun facteur \(x-1\) n'est présent au numérateur.
+Aucun facteur $x-1$ n'est présent au numérateur.
 
 Donc l'expression ne se simplifie pas.
 
-#### 4. Calcul de \(f(0)\)
+#### 4. Calcul de $f(0)$
 
-\[
+$$
 f(0)=\frac{-4}{-1}=4
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{f(0)=4}
-\]
+$$
 
-#### 5. Résolution de \(f(x)=0\)
+#### 5. Résolution de $f(x)=0$
 
 Une fraction est nulle lorsque son numérateur est nul et son dénominateur non nul.
 
-\[
+$$
 (x-2)(x+2)=0
-\]
+$$
 
 Donc :
 
-\[
+$$
 x=2\quad\text{ou}\quad x=-2
-\]
+$$
 
 Ces deux valeurs appartiennent au domaine.
 
 Ainsi :
 
-\[
+$$
 \boxed{S=\{-2,2\}}
-\]
+$$
 
 </details>
 
@@ -1266,9 +1266,9 @@ Ainsi :
 
 #### Réflexe 5 — Avant une étude de fonction
 
-\[
+$$
 \boxed{\text{Domaine de définition}}
-\]
+$$
 
 doit être l'un des premiers réflexes.
 
@@ -1282,82 +1282,82 @@ doit être l'un des premiers réflexes.
 
 Factoriser :
 
-\[
+$$
 x^2-10x+25
-\]
+$$
 
 ### B
 
 Résoudre :
 
-\[
+$$
 (x-3)(2x+5)=0
-\]
+$$
 
 ### C
 
 Déterminer le domaine de :
 
-\[
+$$
 f(x)=\frac{\sqrt{x-1}}{x-4}
-\]
+$$
 
 ### D
 
 Résoudre :
 
-\[
+$$
 \frac{x-3}{x+2}\leq0
-\]
+$$
 
 <details>
 <summary>👉 Voir les réponses</summary>
 
 **A**
 
-\[
+$$
 \boxed{(x-5)^2}
-\]
+$$
 
 **B**
 
-\[
+$$
 \boxed{x=3\quad\text{ou}\quad x=-\frac52}
-\]
+$$
 
 **C**
 
 Il faut :
 
-\[
+$$
 x-1\geq0
-\]
+$$
 
 et :
 
-\[
+$$
 x\neq4
-\]
+$$
 
 Donc :
 
-\[
+$$
 \boxed{D_f=[1,4[\cup]4,+\infty[}
-\]
+$$
 
 **D**
 
 Valeurs importantes :
 
-\[
+$$
 x=3,\qquad x=-2
-\]
+$$
 
 Le quotient est négatif ou nul sur :
 
-\[
+$$
 \boxed{]-2,3]}
-\]
+$$
 
 </details>
 
